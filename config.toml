@@ -30,8 +30,8 @@ enableEmoji = true
 [params]
   orgName = "RStudio"
   orgLocal = "Anywhere"
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "./img/favicon.ico"
+  description = "Ava Mackay-Smith's personal site"
+  favicon = "images/logo.png"
   logo = "images/logo.png"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
@@ -92,11 +92,23 @@ enableEmoji = true
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/hashtag/apéro"
+      url       = "https://twitter.com/a_mack_s"
   [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "http://orcid.org/0000-0002-8082-1890"
+      url       = "https://orcid.org/0000-0003-0404-0563"
+  [[params.social]]
+      icon      = "graduation-cap" # icon name without the 'fa-'
+      icon_pack = "fas"
+      url       = "https://scholar.google.com/citations?hl=en&user=-YrGt0sAAAAJ"
+  [[params.social]]
+      icon      = "linkedin" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.linkedin.com/in/ava-mackay-smith/"
+  [[params.social]]
+      icon      = "outline/butterfly" # icon name without the 'fa-'
+      icon_pack = "tabler"
+      url       = "https://bsky.app/profile/a-mack-s.bsky.social"      
 
 [taxonomies]
   category = "categories"
