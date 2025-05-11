@@ -1,7 +1,7 @@
 ---
-title: "Hugo Apéro"
-subtitle: "A Hugo theme you'll want to hang out with"
-description: "Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic, we wanted to create a polished Hugo theme with the right features for a true personal website. We set out to create a theme that is a pleasure to learn, and one that helps others get to know you better. It is more than a blog, with flexible custom layouts that help you introduce yourself online."
+title: "Ava Mackay-Smith"
+subtitle: "Evolution of Gene Regulation and Variation at Duke University's Genetics and Genomics Program"
+description: "Thanks for stopping by - I'm a fourth-year Ph.D. candidate at Duke University, working with Dr. Greg Wray in the University Program in Genetics and Genomics. I'm passionate about explaining the origin and maintenance of diversity in the natural world, using an ever-changing toolkit of genetic and epigenetic tools. To do this well, I am becoming increasingly interested in how we wrangle and visualize big datasets, and am particularly excited about how graphic and design choices can help us communicate genetics more effectively, to other academics as well as the public."
 images:
   - img/revoir.jpg
 image_left: true
