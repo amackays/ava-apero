@@ -121,10 +121,15 @@ enableEmoji = true
     url = "/projects/"
     weight = 3
   [[menu.header]]
+    name = "Teaching"
+    title = "Teaching Portfolio"
+    url = "/teaching-portfolio/"
+    weight = 4
+  [[menu.header]]
     name = "Resources"
     title = "Resources"
     url = "/faq/"
-    weight = 6
+    weight = 5
     
   # Configure footer  
   [[menu.footer]]
