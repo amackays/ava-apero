@@ -106,7 +106,8 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://www.linkedin.com/in/ava-mackay-smith/"
   [[params.social]]
-      icon      = <i class="fa-brands fa-bluesky"></i> # icon name without the 'fa-'
+      icon      = "bluesky"
+      icon_pack = "fab"
       url       = "https://bsky.app/profile/a-mack-s.bsky.social"      
 
 [taxonomies]
